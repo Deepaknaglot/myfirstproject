@@ -153,6 +153,7 @@ kubectl apply -f regapp-service.yml
 ~~~
 
 ## Troubleshooting
+deepa
 
 - If Maven is not found, install Maven and add it to your PATH.
 - If Java compatibility issues occur, use -Djava.version=<version>.
